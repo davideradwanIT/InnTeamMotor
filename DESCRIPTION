@@ -1,4 +1,4 @@
-Package: SCCTempConverter
+Package: Motor_R_package
 Type: Package
-Title: Temperature Conversion Package for Demonstration
+Title: Package for InnTeam Motor 
 Version: 0.0.1.0
